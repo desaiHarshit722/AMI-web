@@ -60,7 +60,7 @@
     transform: scale(0.9);
   }
 .container-fluid .img-container{
-    height: 80vh;
+    height: 90vh;
     width: 100%;
     background-image: url('./images/bg-img-3.jpeg');
     /* background-image: url('./images/steel-bg.jpeg'); */
